@@ -1,0 +1,3 @@
+INFO    : This is for tracing the flow
+NOTICE  : This is to notify certain events
+WARN    : This is to generate certain warnings
